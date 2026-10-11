@@ -1,0 +1,11 @@
+opencv-python-headless
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
+gradio
+grad-cam
+shap
+scipy
+pyyaml
